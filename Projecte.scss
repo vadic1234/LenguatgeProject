@@ -1,17 +1,10 @@
-$dropdown-border-color:#dc3545;
-$dropdown-border-width:  4px;
-$dropdown-link-hover-bg: lightgreen;
-$dropdown-link-hover-color: black;
-$dropdown-link-color:#dc3545;
-$dropdown-link-active-bg: #dc3545;
-$dropdown-link-active-color: white;
-$btn-font-family: "Ink Free";
-$btn-font-size: 25px;
-$btn-padding-x: 30px;
-$dropdown-padding-y:10px;
-$dropdown-item-padding-x: 32px;
-$dropdown-font-size: 20px;
-$dropdown-border-radius: 10px;
+$first: #aaaaaa;
+$second: #e9994e;
+$third: #fa912f;
 
-
+$theme-colors:(
+    "primary":$first,
+    "secondary":$second,
+    "danger":$third
+);
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
