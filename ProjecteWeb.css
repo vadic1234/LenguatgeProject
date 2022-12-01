@@ -9,4 +9,12 @@ footer{
 #text{
     text-align: justify;
 }
+#picture{
+    position:relative;
+    width:75%;
+    
+    border-style: solid;
+    border-image:15px;
+    border-radius:50%;
+}
 
