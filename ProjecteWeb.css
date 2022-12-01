@@ -8,13 +8,15 @@ footer{
 
 #text{
     text-align: justify;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #picture{
     position:relative;
     width:75%;
-    
     border-style: solid;
     border-image:15px;
     border-radius:50%;
+    left: 25px;
+    bottom: 10px;
 }
-
