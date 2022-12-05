@@ -13,7 +13,7 @@ footer{
 }
 #picture{
     position:relative;
-    width:65%;
+    width:75%;
     border-style: solid;
     border-image:15px;
     border-radius:50%;
@@ -24,4 +24,7 @@ footer{
     width: 600px;
     height: 430px;
 }
-
+.picture11{
+    position: relative;
+    
+}
