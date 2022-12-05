@@ -13,11 +13,15 @@ footer{
 }
 #picture{
     position:relative;
-    width:75%;
+    width:50%;
     border-style: solid;
     border-image:15px;
     border-radius:50%;
-    left: 25px;
+    left: 200px;
     bottom: 10px;
+}
+.picture2{
+    width: 600px;
+    height: 430px;
 }
 
